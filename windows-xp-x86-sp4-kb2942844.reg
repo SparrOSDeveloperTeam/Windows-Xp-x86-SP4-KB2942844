@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Changes Version to 5
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Windows]
+"CSDVersion"dword:500
