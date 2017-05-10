@@ -25,6 +25,6 @@ The following updates will be installed from this repository:
 
 ## Registry Edits
 
-The following registry(s) will be hacked
+The following registry(s) will be hacked:
 
 1. `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Windows\CSDVersion`
