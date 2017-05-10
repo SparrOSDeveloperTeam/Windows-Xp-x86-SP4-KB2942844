@@ -28,3 +28,4 @@ The following updates will be installed from this repository:
 The following registry(s) will be hacked:
 
 1. `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Windows\CSDVersion`
+2. `HKEY_LOCAL_MACHINE\System\WPA\PosReady\Installed`
