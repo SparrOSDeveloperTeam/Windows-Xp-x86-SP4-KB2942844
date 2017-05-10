@@ -3,4 +3,9 @@ Windows Registry Editor Version 5.00
 ; Changes Version to 5
 
 [HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Windows]
-"CSDVersion"dword:500
+"CSDVersion"=dword:500
+
+; Gives you updates to 2019
+
+[HKEY_LOCAL_MACHINE\System\WPA\PosReady]
+"Installed"=dword:00000001
