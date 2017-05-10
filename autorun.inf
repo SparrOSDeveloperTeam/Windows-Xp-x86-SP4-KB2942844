@@ -1,0 +1,4 @@
+[autorun]
+shell=iexplore.exe readme.html
+icon=windowsxp.ico
+label=WXP-X86-KB2942844
