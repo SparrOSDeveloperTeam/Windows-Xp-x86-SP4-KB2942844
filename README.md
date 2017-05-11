@@ -17,11 +17,11 @@ The following updates will be installed from this repository:
 1. .Net Framework 4 Offline Installer
 2. Windows MSI 4.5 (`KB942288`)
 3. Windows Imaging Component
-4. 
-5. 
-6. 
-7. 
-8. 
+4. Windows Security Update (`KB2761226`)
+5. Windows Security Update (`KB2838727`)
+6. Windows Security Update (`KB28392299`)
+7. Windows Security Update (`KB29143678`)
+8. Windows Security Update (`KB25362761`)
 
 ## Registry Edits
 
