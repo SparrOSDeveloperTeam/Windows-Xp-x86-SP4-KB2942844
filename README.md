@@ -14,9 +14,9 @@ The following requirements must be met before installing Windows Xp Service Pack
 
 The following updates will be installed from this repository:
 
-1. .Net Framework 4 Offline Installer
+1. .Net Framework 4 (`KB2468871`) Offline Installer
 2. Windows MSI 4.5 (`KB942288`)
-3. Windows Imaging Component
+3. Windows Imaging Component (`WIC`)
 4. Windows Security Update (`KB2761226`)
 5. Windows Security Update (`KB2838727`)
 6. Windows Security Update (`KB28392299`)
