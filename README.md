@@ -8,7 +8,7 @@ The following requirements must be met before installing Windows Xp Service Pack
 
 1. You must have Windows Xp installed on your PC.
 2. Windows Xp must be x86.
-3. Service Pack 3 (`KB958644`) is installed.
+3. <a href="http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR2.TRC0.A0.H0.Xwindows+xp+service+pack+3.TRS0&_nkw=windows+xp+service+pack+3&_sacat=0">Service Pack 3</a> (`KB958644`) is installed.
 
 ## Updates installed for Service Pack 4
 
