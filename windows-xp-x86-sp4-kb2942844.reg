@@ -1,9 +1,9 @@
 Windows Registry Editor Version 5.00
 
-; Changes Version to 5
+; Changes Version to 4
 
 [HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Windows]
-"CSDVersion"=dword:500
+"CSDVersion"=dword:400
 
 ; Gives you updates to 2019
 
