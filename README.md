@@ -34,14 +34,14 @@ The following registry(s) will be hacked:
 
 RC:
 
-1. Source Code (`zip`): https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Pre.zip
-2. Source Code (`tar.gz`): https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Pre.tar.gz
-3. Binary: https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Pre/Windows-Xp-x86-SP4-ENU-KB2942844.zip
+1. Source Code (`zip`): <a href="https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Pre.zip">v1.0Pre.zip</a>
+2. Source Code (`tar.gz`): <a href="https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Pre.tar.gz">v1.0Pre.tar.gz</a>
+3. Binary: <a href="https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Pre/Windows-Xp-x86-SP4-ENU-KB2942844.zip">Windows-Xp-x86-SP4-ENU-KB2942844.zip</a>
 
 Full 1.0:
 
-1. Source Code (`zip`): https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Full.zip
-2. Source Code (`tar.gz`): https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Full.tar.gz
-3. Binary: https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Full/Windows-Xp-x86-SP4-ENU-KB2942844-binaries.zip
-4. Installer: https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Full/Windows-Xp-x86-SP4-ENU-KB2942844-install.zip
+1. Source Code (`zip`): <a href="https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Full.zip">v1.0Full.zip</a>
+2. Source Code (`tar.gz`): <a href="https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Full.tar.gz">v1.0Full.tar.gz</a>
+3. Binary: <a href="https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Full/Windows-Xp-x86-SP4-ENU-KB2942844-binaries.zip">Windows-Xp-x86-SP4-ENU-KB2942844-binaries.zip</a>
+4. Installer: <a href="https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Full/Windows-Xp-x86-SP4-ENU-KB2942844-install.zip">Windows-Xp-x86-SP4-ENU-KB2942844-install.zip</a>
 5. ISO (`ISO-9660`): Coming Soon
