@@ -29,3 +29,19 @@ The following registry(s) will be hacked:
 
 1. `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Windows\CSDVersion`
 2. `HKEY_LOCAL_MACHINE\System\WPA\PosReady\Installed`
+
+## Downloads
+
+RC:
+
+1. Source Code (`zip`): https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Pre.zip
+2. Source Code (`tar.gz`): https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Pre.tar.gz
+3. Binary: https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Pre/Windows-Xp-x86-SP4-ENU-KB2942844.zip
+
+Full 1.0:
+
+1. Source Code (`zip`): https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Full.zip
+2. Source Code (`tar.gz`): https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/archive/v1.0Full.tar.gz
+3. Binary: https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Full/Windows-Xp-x86-SP4-ENU-KB2942844-binaries.zip
+4. Installer: https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844/releases/download/v1.0Full/Windows-Xp-x86-SP4-ENU-KB2942844-install.zip
+5. ISO (`ISO-9660`): Coming Soon
