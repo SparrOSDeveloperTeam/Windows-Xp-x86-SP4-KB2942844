@@ -1,5 +1,7 @@
 # Windows-Xp-x86-SP4-KB2942844
 
+<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&passingText=Project%20-%20abandoned&failingText=master%20-%20Abandoned" alt="Project Badge">
+
 Welcome to Windows Xp Service Pack 4. This will update your system with 5 Post SP3 Updates.
 
 ## Requirements
